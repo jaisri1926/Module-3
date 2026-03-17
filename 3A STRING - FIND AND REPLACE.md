@@ -21,6 +21,7 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ---
 
 ### PROGRAM
+```
 # Reg No-212222060086
 Name - Jaisri J
 
@@ -31,7 +32,7 @@ def string_length(s):
 string = input()
 string_length(string)
 ```
-```
+
 
 ### OUTPUT
 <img width="752" height="265" alt="image" src="https://github.com/user-attachments/assets/1e498120-f07d-4b97-9bc4-e3c5139753b6" />
